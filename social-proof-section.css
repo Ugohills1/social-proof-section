@@ -223,7 +223,7 @@ h4 {
 }
 
 
-@media only screen and (max-width: 766px) {
+@media only screen and (max-width: 1441px) {
 
     .main-container {
         margin: auto;
@@ -268,7 +268,7 @@ h4 {
         height: 50px;
         gap: 10px;
         position: absolute;
-        top: -100px;
+        top: 0px;
     }
 
     #review-2 {
@@ -281,7 +281,7 @@ h4 {
         height: 60px;
         gap: 10px;
         position: absolute;
-        top: -40px;
+        top: 60px;
     }
 
     #review-3 {
@@ -292,7 +292,7 @@ h4 {
         margin: auto;
         height: 50px;
         position: absolute;
-        top: 30px;   gap: 10px;
+        top: 130px;   
 
     }
 
@@ -310,7 +310,7 @@ h4 {
     background-color: hsl(300, 43%, 22%);
     margin: auto;
     position: relative;
-    top: 90px;
+    top: 190px;
 }
     
     #Buyer1-image img {
@@ -325,7 +325,8 @@ h4 {
     display: flex;
     background-color: hsl(300, 43%, 22%);
     position: relative;
-    top: 90px;
+    top: 170px;
+    right: 5px;
 }
     
     #Buyer2-image img {
@@ -341,18 +342,14 @@ h4 {
     align-content: space-around;
     background-color: hsl(300, 43%, 22%);
     position: relative;
-    top: 90px;
+    top: 130px;
+    right: 5px;
 }
     
     #Buyer3-image img {
     width: 30px;
     height: 30px;
     border-radius: 30px;
-    }
-    
-    #bg-pattern-how-we-work {
-    position: absolute;
-    right: 0;
     }
     
     h1 {
