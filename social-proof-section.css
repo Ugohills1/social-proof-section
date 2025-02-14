@@ -326,7 +326,7 @@ h4 {
     background-color: hsl(300, 43%, 22%);
     position: relative;
     top: 170px;
-    right: 5px;
+    left: -20px;
 }
     
     #Buyer2-image img {
@@ -343,7 +343,7 @@ h4 {
     background-color: hsl(300, 43%, 22%);
     position: relative;
     top: 130px;
-    right: 5px;
+    left: -20px;
 }
     
     #Buyer3-image img {
